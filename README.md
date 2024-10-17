@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://brunotxrs.github.io/devlinks)
+- Acesse o projeto finalizado, [online](https://github.com/brunotxrs/portfolio)
 
 ## 🔖 Layout
 
@@ -47,6 +47,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Bruno Teixeira :wave: [siga!](https://discord.gg/brunotxrs)
-[](https://github.com/brunotxrs)
+Feito com ♥ by Bruno Teixeira :wave: [siga!](https://www.instagram.com/bruno_txrs/)
 
