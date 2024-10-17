@@ -47,5 +47,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Bruno Teixeira :wave: [siga!](https://discord.gg/brunotxrs)
+Feito com ♥ by Bruno Teixeira :wave: [siga!](https://www.instagram.com/bruno_txrs/)
 
